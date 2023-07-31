@@ -5,5 +5,5 @@
 >Para executar desse projeto, é necessário ter o MySQL instalado em sua máquina e conectar ao banco de dados.
 
 ```
-USER banco_de_dados;
+node app.js
 ```
