@@ -7,4 +7,7 @@
 ```
 node app.js
 ```
-> ALteração utilizando IDE VS VSCODE na nuvem.
+> Alteração utilizando IDE VS VSCODE na nuvem.
+
+>Alteração para visualização no git.
+>Alteração da letra "L" da linha 10
